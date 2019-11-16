@@ -1,5 +1,26 @@
 body {
-    background-color:green;
+    background-color:white;
     font-family: 'Raleway', sans-serif;
+  }
+  
+  .pull-quote {
+    margin: 0 auto;
+    width: 400px;
+    
+  }
+
+  h2 {
+    border: 1px dotted red;
+    color: red;
+    font-size: 14px;
+    line-height: 48px;
+    padding: 20px 30px;
+    margin: 30px 20px;
+    text-align: center;
+  }
+
+  footer{
+    background-color:black; 
+    color : whitesmoke;
   }
   
