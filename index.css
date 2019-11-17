@@ -1,5 +1,5 @@
 body {
-    background-color:white;
+    background-color:black;
     font-family: 'Raleway', sans-serif;
   }
   
@@ -25,7 +25,7 @@ footer{
 
 p {
     border: 1px dotted red;
-    color: black;
+    color: white;
     font-size: 16px;
     line-height: 48px;
     margin-top: 60px;
@@ -43,7 +43,7 @@ p1 {
 }
 
 li {
-    color: black;
+    color: white;
     font-size: 16px;
     padding: 10px 20px;
     box-align: center; 
