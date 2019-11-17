@@ -6,10 +6,9 @@ body {
   .pull-quote {
     margin: 0 auto;
     width: 400px;
-    
-  }
+      }
 
-  h2 {
+h2 {
     border: 1px dotted red;
     color: red;
     font-size: 14px;
@@ -19,8 +18,34 @@ body {
     text-align: center;
   }
 
-  footer{
+footer{
     background-color:black; 
     color : whitesmoke;
   }
-  
+
+p {
+    border: 1px dotted red;
+    color: black;
+    font-size: 16px;
+    line-height: 48px;
+    margin-top: 60px;
+    padding: 10px 20px;
+    box-align: center; 
+    font-weight: bold;
+}
+
+p1 {
+    color: white;
+    font-size: 16px;
+    box-align: center;
+    line-height: 20px;
+    
+}
+
+li {
+    color: black;
+    font-size: 16px;
+    padding: 10px 20px;
+    box-align: center; 
+    font-weight: bold;
+}
